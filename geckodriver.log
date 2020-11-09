@@ -1,0 +1,2115 @@
+1597275081933	geckodriver	INFO	Listening on 127.0.0.1:52488
+1597275085048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofile1KTEku"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597275104815	Marionette	INFO	Listening on port 52496
+1597275105033	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597275129661	Marionette	INFO	Stopped listening on port 52496
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597275349342	geckodriver	INFO	Listening on 127.0.0.1:52680
+1597275352426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofile2M9cZe"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597275356777	Marionette	INFO	Listening on port 52690
+1597275356836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597275387562	Marionette	INFO	Stopped listening on port 52690
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597275435655	geckodriver	INFO	Listening on 127.0.0.1:52792
+1597275438709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilewRpHWM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597275442390	Marionette	INFO	Listening on port 52801
+1597275442830	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597275668200	Marionette	INFO	Stopped listening on port 52801
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597275824098	geckodriver	INFO	Listening on 127.0.0.1:53080
+1597275827138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileRp2teX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597275831578	Marionette	INFO	Listening on port 53090
+1597275831866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597275873182	Marionette	INFO	Stopped listening on port 53090
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597275875314	geckodriver	INFO	Listening on 127.0.0.1:53190
+1597275878341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilemh0bEt"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597275882281	Marionette	INFO	Listening on port 53199
+1597275882705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597275914550	Marionette	INFO	Stopped listening on port 53199
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\Temp\\rust_mozprofilenRHLTw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597275912181	Marionette	INFO	Listening on port 53284
+1597275912457	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597276178842	Marionette	INFO	Stopped listening on port 53284
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\Temp\\rust_mozprofileKnbZel"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597276088611	Marionette	INFO	Listening on port 53482
+1597276088820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597276176299	Marionette	INFO	Stopped listening on port 53482
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\Temp\\rust_mozprofilevVS0yw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597276122473	Marionette	INFO	Listening on port 53573
+1597276122789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597276173585	Marionette	INFO	Stopped listening on port 53573
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\Temp\\rust_mozprofileXssHKp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597276177929	Marionette	INFO	Listening on port 53676
+1597276178245	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597276505517	Marionette	INFO	Stopped listening on port 53676
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\Temp\\rust_mozprofileo6XMND"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597276209706	Marionette	INFO	Listening on port 53768
+1597276210109	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597276321667	Marionette	INFO	Stopped listening on port 53768
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597276322760	geckodriver	INFO	Listening on 127.0.0.1:53902
+1597276325821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilePczUen"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597276329857	Marionette	INFO	Listening on port 53912
+1597276329937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597276430818	Marionette	INFO	Stopped listening on port 53912
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597276433785	geckodriver	INFO	Listening on 127.0.0.1:54029
+1597276436845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileDg4XaY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597276440430	Marionette	INFO	Listening on port 54041
+1597276440548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597276503255	Marionette	INFO	Stopped listening on port 54041
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597276509142	geckodriver	INFO	Listening on 127.0.0.1:54152
+1597276512184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilelYOOty"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597276516143	Marionette	INFO	Listening on port 54161
+1597276516304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597276540641	Marionette	INFO	Stopped listening on port 54161597276543534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileiR9EKW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597276547260	Marionette	INFO	Listening on port 54252
+1597276547662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597276584295	Marionette	INFO	Stopped listening on port 54252
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\Temp\\rust_mozprofilesY0ZO2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597276580381	Marionette	INFO	Listening on port 54343
+1597276580469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597276620189	Marionette	INFO	Stopped listening on port 54343
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597276629716	geckodriver	INFO	Listening on 127.0.0.1:54447
+1597276632767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilemEAavb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597276636075	Marionette	INFO	Listening on port 54458
+1597276636386	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597276675751	Marionette	INFO	Stopped listening on port 54458
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\Temp\\rust_mozprofiledlVDnu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597276676131	Marionette	INFO	Listening on port 54551
+1597276676541	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597276709605	Marionette	INFO	Stopped listening on port 54551597276711941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileDx8n8a"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597276716066	Marionette	INFO	Listening on port 54654
+1597276716165	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597276769388	Marionette	INFO	Stopped listening on port 54654
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597276769810	geckodriver	INFO	Listening on 127.0.0.1:54763
+1597276772848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilenKcovW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597276776838	Marionette	INFO	Listening on port 54772
+1597276776969	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597276825069	Marionette	INFO	Stopped listening on port 54772
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597276964500	geckodriver	INFO	Listening on 127.0.0.1:54957
+1597276967553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofile0n7P9P"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597276971343	Marionette	INFO	Listening on port 54966
+1597276971672	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597276994917	Marionette	INFO	Stopped listening on port 54966
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\Temp\\rust_mozprofileH5uter"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597276993301	Marionette	INFO	Listening on port 55054
+1597276993359	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597277033230	Marionette	INFO	Stopped listening on port 55054
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597277034541	geckodriver	INFO	Listening on 127.0.0.1:55151
+1597277037582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofile6qJGvw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597277041280	Marionette	INFO	Listening on port 55160
+1597277041707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597277124817	Marionette	INFO	Stopped listening on port 55160
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597277213974	geckodriver	INFO	Listening on 127.0.0.1:55342
+1597277217036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileKmisH2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597277221139	Marionette	INFO	Listening on port 55352
+1597277221160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597277242245	geckodriver	INFO	Listening on 127.0.0.1:55432
+1597277245323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileCT5L8b"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597277249207	Marionette	INFO	Listening on port 55441
+1597277249444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597277282814	Marionette	INFO	Stopped listening on port 55441
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597277285260	geckodriver	INFO	Listening on 127.0.0.1:55536
+1597277288331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilevidnzh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597277291934	Marionette	INFO	Listening on port 55545
+1597277291982	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597277377949	Marionette	INFO	Stopped listening on port 55545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597277380915	geckodriver	INFO	Listening on 127.0.0.1:55667
+1597277383952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileWVwOya"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597277387182	Marionette	INFO	Listening on port 55677
+1597277388823	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1597277441924	Marionette	INFO	Stopped listening on port 55677
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597277463114	geckodriver	INFO	Listening on 127.0.0.1:55800
+1597277466183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilelKLiSW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597277469958	Marionette	INFO	Listening on port 55810
+1597277470313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1597277888188	Marionette	INFO	Stopped listening on port 55810
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597277889008	geckodriver	INFO	Listening on 127.0.0.1:56140
+1597277892074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileBjFEy8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597277896738	Marionette	INFO	Listening on port 56149
+1597277896793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597277948830	Marionette	INFO	Stopped listening on port 56149
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597277951687	geckodriver	INFO	Listening on 127.0.0.1:56258
+1597277954751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileCCBGlv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597277958120	Marionette	INFO	Listening on port 56267
+1597277958376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597277978953	Marionette	INFO	Stopped listening on port 56267
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597277979610	geckodriver	INFO	Listening on 127.0.0.1:56346
+1597277982679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofile2ra5ic"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597277986662	Marionette	INFO	Listening on port 56356
+1597277986803	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597278072609	Marionette	INFO	Stopped listening on port 56356
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597278076751	geckodriver	INFO	Listening on 127.0.0.1:56485
+1597278079804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofile1Efv3P"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597278083501	Marionette	INFO	Listening on port 56495
+1597278083922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1597278106923	Marionette	INFO	Stopped listening on port 56495
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597278114115	geckodriver	INFO	Listening on 127.0.0.1:56608
+1597278117181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofiledVrbla"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597278120624	Marionette	INFO	Listening on port 56617
+1597278120804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597278327345	Marionette	INFO	Stopped listening on port 56617
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597278329867	geckodriver	INFO	Listening on 127.0.0.1:56841
+1597278332913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileayzqf3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597278338130	Marionette	INFO	Listening on port 56852
+1597278338204	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597278652334	Marionette	INFO	Stopped listening on port 56852
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597278655111	geckodriver	INFO	Listening on 127.0.0.1:57101
+1597278658256	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilenkUhpN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597278661903	Marionette	INFO	Listening on port 57110
+1597278662387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39006F,name=PContent::Msg_SuspendInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39006D,name=PContent::Msg_FlushInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39006E,name=PContent::Msg_ResumeInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390050,name=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390048,name=PContent::Msg_NotifyProcessPriorityChanged) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1597288975153	Marionette	INFO	Stopped listening on port 57110
+1597318516685	geckodriver	INFO	Listening on 127.0.0.1:63198
+1597318519722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileHxjFdK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597318538200	Marionette	INFO	Listening on port 63207
+1597318538639	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+1597321937277	Marionette	INFO	Stopped listening on port 63207
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\Temp\\rust_mozprofile5Adudc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597318932238	Marionette	INFO	Listening on port 63641
+1597318932338	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13356, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1597318970536	Marionette	INFO	Stopped listening on port 63641
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597318972373	geckodriver	INFO	Listening on 127.0.0.1:63755
+1597318975211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofiledgcXZJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597318978778	Marionette	INFO	Listening on port 63765
+1597318978837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597319549604	Marionette	INFO	Stopped listening on port 63765
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597319568872	geckodriver	INFO	Listening on 127.0.0.1:64128
+1597319571856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilezi33Yq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597319576249	Marionette	INFO	Listening on port 64137
+1597319576573	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/4282472568059588763/Arroba%20Banner%20-%20KICKS%2016%20SV%20CVT%20MY20-20%20-%20-dcoll010405053054053012111333203019.html#t=17640025827938001950&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+1597320241922	Marionette	INFO	Stopped listening on port 64137
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597320249086	geckodriver	INFO	Listening on 127.0.0.1:64571
+1597320252136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileIt5N8p"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597320255865	Marionette	INFO	Listening on port 64581
+1597320256255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/4282472568059588763/Arroba%20Banner%20-%20KICKS%2016%20SV%20CVT%20MY20-20%20-%20-dcoll010405053054053012111333203019.html#t=16521531622461963550&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+[Parent 27712, Gecko_IOThread] WARNING: file /builds/worker/1597321484505	mozrunner::runner	INFO	Running command: "C:\\Program Fi1597321485601	Marionette	INFO	Stopped listening on port 64581
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597321494291	Marionette	INFO	Listening on port 65027
+1597321494743	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597321944897	geckodriver	INFO	Listening on 127.0.0.1:65341
+1597321947912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilezZ9m0z"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597321952353	Marionette	INFO	Listening on port 65351
+1597321952633	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/4282472568059588763/Arroba%20Banner%20-%20KICKS%2016%20SV%20CVT%20MY20-20%20-%20-dcoll010405053054053012111333203019.html#t=18112107231861124165&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+1597335920910	geckodriver	INFO	Listening on 127.0.0.1:49946
+1597335923974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilemZwUVm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597335940201	Marionette	INFO	Listening on port 49954
+1597335943044	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/4282472568059588763/Arroba%20Banner%20-%20KICKS%2016%20SV%20CVT%20MY20-20%20-%20-dcoll010405053054053012111333203019.html#t=11778242980210120971&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+1597337337466	Marionette	INFO	Stopped listening on port 49954
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597337340525	geckodriver	INFO	Listening on 127.0.0.1:50354
+1597337343603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileq6F8DS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597337349418	Marionette	INFO	Listening on port 50363
+1597337349846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://imasdk.googleapis.com/formats/outstream/versioned/prod2/outstream_web_client_20200810_RC00/outstream.min.js, line 615: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: 2152398850: Request failed
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 13608, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 13608, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1597361753651	Marionette	INFO	Stopped listening on port 50363
+pt error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1597360937544	Marionette	INFO	Stopped listening on port 50508
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+337997047	Marionette	INFO	Listening on port 50708
+1597337997362	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597339354179	Marionette	INFO	Stopped listening on port 50708
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\Temp\\rust_mozprofilesBBnfR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597338076090	Marionette	INFO	Listening on port 50841
+1597338076383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597338891826	Marionette	INFO	Stopped listening on port 50841
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597338894036	geckodriver	INFO	Listening on 127.0.0.1:51077
+1597338897085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilem3z0w4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597338902242	Marionette	INFO	Listening on port 51085
+1597338902314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+[Child 19068, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+[Child 19068, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+[Child 19068, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+[Child 19068, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1597339350718	Marionette	INFO	Stopped listening on port 51085
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597361801630	geckodriver	INFO	Listening on 127.0.0.1:52546
+1597361804737	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileu7Hjrc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597361820196	Marionette	INFO	Listening on port 52554
+1597361820414	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/4282472568059588763/Arroba%20Banner%20-%20KICKS%2016%20SV%20CVT%20MY20-20%20-%20-dcoll010405053054053012111333203019.html#t=15101598559017412309&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+[Child 1196, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1597361907519	Marionette	INFO	Stopped listening on port 52554
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597361910683	geckodriver	INFO	Listening on 127.0.0.1:52658
+1597361913701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilebtbvjI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597361919429	Marionette	INFO	Listening on port 52666
+1597361919929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/4282472568059588763/Arroba%20Banner%20-%20KICKS%2016%20SV%20CVT%20MY20-20%20-%20-dcoll010405053054053012111333203019.html#t=136438437203462604&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+[Parent 16992, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1597367418221	Marionette	INFO	Stopped listening on port 52666
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597518422972	geckodriver	INFO	Listening on 127.0.0.1:55977
+1597518426233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileMmBKUp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597518444834	Marionette	INFO	Listening on port 55985
+1597518444941	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+1597518483243	Marionette	INFO	Stopped listening on port 55985
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\Temp\\rust_mozprofileOIcZTy"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597518487681	Marionette	INFO	Listening on port 56103
+1597518487923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597519001233	Marionette	INFO	Stopped listening on port 56103
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597519004384	geckodriver	INFO	Listening on 127.0.0.1:56424
+1597519007443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilea8fEdF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597519014611	Marionette	INFO	Listening on port 56432
+1597519014810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+1597519051634	Marionette	INFO	Stopped listening on port 56432
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597519118537	geckodriver	INFO	Listening on 127.0.0.1:56541
+1597519121600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileqXgARz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597519125885	Marionette	INFO	Listening on port 56549
+1597519126334	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+[Child 27072, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+[Child 27072, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/commoJavaScript error: resource://gre1597519181722	Marionette	INFO	Stopped listening on port 56549
+
+###!!1597519183491	Marionette	INFO	Listening on port 56662
+1597519183687	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+1597519500995	Marionette	INFO	Stopped listening on port 56662
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\Temp\\rust_mozprofilefy4h9g"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597519359791	Marionette	INFO	Listening on port 56797
+1597519360180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+[Child 23144, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1597519499215	Marionette	INFO	Stopped listening on port 56797
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+read] WARNING: file /builds/worker/1597519490342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\[Parent 22976, Gecko_IOTJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597519503992	Marionette	INFO	Listening on port 57031
+1597519504044	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+1597520511082	Marionette	INFO	Stopped listening on port 57031
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x5F0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+ing on port 56922
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597519927859	geckodriver	INFO	Listening on 127.0.0.1:57175
+1597519930876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileySmJT8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597519935513	Marionette	INFO	Listening on port 57185
+1597519935605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597520195119	Marionette	INFO	Stopped listening on port 57185
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597520514848	geckodriver	INFO	Listening on 127.0.0.1:57493
+1597520517866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilerRPpSZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597520522658	Marionette	INFO	Listening on port 57501
+1597520523089	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1597520727644	Marionette	INFO	Stopped listening on port 57501
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597520730539	Marionette	INFO	Listening on port 57636
+1597520730622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597520758687	Marionette	INFO	Stopped listening on port 57636
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597520765210	geckodriver	INFO	Listening on 127.0.0.1:57847
+1597520768248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileIStJBc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597520772273	Marionette	INFO	Listening on port 57855
+1597520772386	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+[Child 12292, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1597520961878	Marionette	INFO	Stopped listening on port 57855
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597520975727	geckodriver	INFO	Listening on 127.0.0.1:58014
+1597520978795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileo5arbI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597520982568	Marionette	INFO	Listening on port 58022
+1597520982918	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+1597521014033	Marionette	INFO	Stopped listening on port 58022
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597521014851	geckodriver	INFO	Listening on 127.0.0.1:58142
+1597521017900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofile94Yq0M"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597521021744	Marionette	INFO	Listening on port 58150
+1597521022021	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9832, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+[Child 9832, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+[Child 9832, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+[Child 9832, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1597521261339	Marionette	INFO	Stopped listening on port 58150
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+emote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileYP52Ck"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597521264953	Marionette	INFO	Listening on port 58543
+1597521265199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+1597521360409	Marionette	INFO	Stopped listening on port 58543
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\Temp\\rust_mozprofilePmFECZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597521317265	Marionette	INFO	Listening on port 58660
+1597521317768	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+1597521362205	Marionette	INFO	Stopped listening on port 58660
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597521376083	geckodriver	INFO	Listening on 127.0.0.1:58757
+1597521379124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilejh3AcL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597521383196	Marionette	INFO	Listening on port 58765
+1597521383247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597521447814	Marionette	INFO	Stopped listening on port 58765
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\Temp\\rust_mozprofileXYMU5v"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597521452068	Marionette	INFO	Listening on port 58876
+1597521452401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+1597521487235	Marionette	INFO	Stopped listening on port 58876
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597521528237	geckodriver	INFO	Listening on 127.0.0.1:58989
+1597521531278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilekZvk6B"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597521537706	Marionette	INFO	Listening on port 58997
+1597521538107	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+1597524891175	Marionette	INFO	Stopped listening on port 58997
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofiles3OYhw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597523267492	Marionette	INFO	Listening on port 59219
+1597523267850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597523797937	Marionette	INFO	Stopped listening on port 59219
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597523800795	geckodriver	INFO	Listening on 127.0.0.1:59532
+1597523803826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileVPzKoS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597523808371	Marionette	INFO	Listening on port 59540
+1597523808561	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 18436, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1597524115649	Marionette	INFO	Stopped listening on port 59540
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597524118537	geckodriver	INFO	Listening on 127.0.0.1:59809
+1597524121514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileFsZKOK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597524125416	Marionette	INFO	Listening on port 59817
+1597524125641	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597524886555	Marionette	INFO	Stopped listening on port 59817
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\Temp\\rust_mozprofilenfQ5mO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597524194251	Marionette	INFO	Listening on port 60045
+1597524194563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1597524884672	Marionette	INFO	Stopped listening on port 60045
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile directory.
+1597524746840	Marionette	INFO	Listening on port 60336
+1597524747119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+1597524881924	Marionette	INFO	Stopped listening on port 60336
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597524912641	geckodriver	INFO	Listening on 127.0.0.1:60502
+1597524915578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileQpYo6M"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597524921174	Marionette	INFO	Listening on port 60510
+1597524921321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+1597525101005	Marionette	INFO	Stopped listening on port 60510
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597525103320	geckodriver	INFO	Listening on 127.0.0.1:60633
+1597525106348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileEwpHxE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597525110764	Marionette	INFO	Listening on port 60641
+1597525111071	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597525765752	Marionette	INFO	Stopped listening on port 60641
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\Temp\\rust_mozprofile8ctANE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597525147911	Marionette	INFO	Listening on port 60839
+1597525148037	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+1597525680605	Marionette	INFO	Stopped listening on port 60839
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597525684298	geckodriver	INFO	Listening on 127.0.0.1:61010
+1597525687275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofile5a8toX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597525692529	Marionette	INFO	Listening on port 61018
+1597525693001	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+[Parent 26036, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 26036, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 26036, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1597526521597526530704	Marionette	INFO	Stopped listening on port 61189
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597526534983	geckodriver	INFO	Listening on 127.0.0.1:61320
+1597526538011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofile9r0jaT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597526542777	Marionette	INFO	Listening on port 61329
+1597526543236	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+[Parent 19344, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 19344, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1597529294230	Marionette	INFO	Stopped listening on port 61329
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv,1597529392092	Marionette	INFO	Stopped listening on port 61478
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+lla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileB7BXtM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597529308096	Marionette	INFO	Listening on port 61849
+1597529308521	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012D,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1597529395575	Marionette	INFO	Stopped listening on port 61849
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e	INFO	Listening on port 61950
+1597529355755	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597529394768	Marionette	INFO	Stopped listening on port 61950
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597529413730	geckodriver	INFO	Listening on 127.0.0.1:62051
+1597529416646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofiledlGvch"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597529420066	Marionette	INFO	Listening on port 62059
+1597529420292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+1597529589573	Marionette	INFO	Stopped listening on port 62059
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\Temp\\rust_mozprofileqtYAO0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597529592724	Marionette	INFO	Listening on port 62185
+1597529592779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597529921464	Marionette	INFO	Stopped listening on port 62185
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597529926864	geckodriver	INFO	Listening on 127.0.0.1:62425
+1597529929899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilegwVCTe"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597529934264	Marionette	INFO	Listening on port 62434
+1597529934625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+1597530042819	Marionette	INFO	Stopped listening on port 62434
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597530044905	geckodriver	INFO	Listening on 127.0.0.1:62557
+1597530047953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileAfvunZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597530051398	Marionette	INFO	Listening on port 62565
+1597530051577	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1597530437281	Marionette	INFO	Stopped listening on port 62565
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597530440239	geckodriver	INFO	Listening on 127.0.0.1:62724
+1597530443342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileZudA1N"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597530447766	Marionette	INFO	Listening on port 62732
+1597530448067	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1597530765300	Marionette	INFO	Stopped listening on port 62732
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+4	Marionette	INFO	Listening on port 62841
+1597530572403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+1597530763418	Marionette	INFO	Stopped listening on port 62841
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597530888657	geckodriver	INFO	Listening on 127.0.0.1:62984
+1597530891708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilebEMfky"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597530896014	Marionette	INFO	Listening on port 62992
+1597530896429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597530911425	Marionette	INFO	Stopped listening on port 62992
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597530912208	geckodriver	INFO	Listening on 127.0.0.1:63068
+1597530915249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileOHOlpS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597530918932	Marionette	INFO	Listening on port 63076
+1597530919375	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+[Child 26452, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1597531003412	Marionette	INFO	Stopped listening on port 63076
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597531008014	geckodriver	INFO	Listening on 127.0.0.1:63202
+1597531011057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileA9yh4G"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597531014619	Marionette	INFO	Listening on port 63210
+1597531014686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597531025097	Marionette	INFO	Stopped listening on port 63210
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597531180764	geckodriver	INFO	Listening on 127.0.0.1:63323
+1597531183797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileL9GmTn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597531187994	Marionette	INFO	Listening on port 63331
+1597531188019	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101, line 6: Script terminated by timeout at:
+hg.prototype.a@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:52253
+Vf/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:47338
+x@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:3128
+Vf@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:47311
+Wf@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:47707
+l.Qa@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:48521
+Af@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:42085
+Og@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:57682
+Lg.prototype.zb@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:57410
+Ie/a.a<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:33046
+Rd/</<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:25989
+Od/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:25725
+yd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:22974
+Od@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:25836
+Rd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:25962
+yd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:22974
+yd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:23018
+
+1597531554715	Marionette	INFO	Stopped listening on port 63331
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597532685440	geckodriver	INFO	Listening on 127.0.0.1:63825
+1597532688231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileJStpQt"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 21316, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1597532723934	Marionette	INFO	Listening on port 63835
+1597532724242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597532747585	Marionette	INFO	Stopped listening on port 63835
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597534383605	geckodriver	INFO	Listening on 127.0.0.1:58036
+1597534386397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileNejrir"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597534425398	Marionette	INFO	Listening on port 58047
+1597534425490	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597534438019	Marionette	INFO	Stopped listening on port 58047
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597544247921	geckodriver	INFO	Listening on 127.0.0.1:60057
+1597544251015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilecVgreL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597544271609	Marionette	INFO	Listening on port 60065
+1597544272074	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1597544522814	Marionette	INFO	Stopped listening on port 60065
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597544530492	geckodriver	INFO	Listening on 127.0.0.1:60270
+1597544533493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileblwwQX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597544539753	Marionette	INFO	Listening on port 60279
+1597544540025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597544823529	Marionette	INFO	Stopped listening on port 60279
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597544900795	geckodriver	INFO	Listening on 127.0.0.1:60550
+1597544903808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofiletijIfw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597544907717	Marionette	INFO	Listening on port 60559
+1597544907935	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 15324, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1597547488379	Marionette	INFO	Stopped listening on port 60559
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1597544994474	Marionette	INFO	Listening on port 60711
+1597544994738	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+[Parent 32784, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 32784, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1597547486660	Marionette	INFO	Stopped listening on port 60711
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1597547494784	geckodriver	INFO	Listening on 127.0.0.1:61747
+1597547497883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileM6Ocxu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 2436, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1597547527693	Marionette	INFO	Listening on port 61760
+1597547527775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+1597547755130	Marionette	INFO	Stopped listening on port 61760
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597547781609	geckodriver	INFO	Listening on 127.0.0.1:62022
+1597547784636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofile1P8TrY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597547788231	Marionette	INFO	Listening on port 62031
+1597547788268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1597547953617	Marionette	INFO	Stopped listening on port 62031
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597547956552	geckodriver	INFO	Listening on 127.0.0.1:62280
+1597547959571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilewYT88Z"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597547964209	Marionette	INFO	Listening on port 62301
+1597547964297	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1597548087949	Marionette	INFO	Stopped listening on port 62301
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597548090329	geckodriver	INFO	Listening on 127.0.0.1:62478
+1597548093359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileNSCf8H"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597548097114	Marionette	INFO	Listening on port 62488
+1597548097506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+1597548134963	Marionette	INFO	Stopped listening on port 62488
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597548145830	geckodriver	INFO	Listening on 127.0.0.1:62602
+1597548148893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilelyaS5P"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1597548164429	Marionette	INFO	Listening on port 62613
+1597548164655	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///actors/AboutReaderChild.jsm, line 95: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+ype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+1597585324995	geckodriver	INFO	Listening on 127.0.0.1:65323
+1597585328247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileWwgOdk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+1597585346923	Marionette	INFO	Listening on port 65331
+1597585347096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+[Child 11748, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1597585460624	Marionette	INFO	Stopped listening on port 65331
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597585464402	geckodriver	INFO	Listening on 127.0.0.1:65474
+1597585467456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilecruBox"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597585471642	Marionette	INFO	Listening on port 65484
+1597585471714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+1597585621268	Marionette	INFO	Stopped listening on port 65484
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597585623367	geckodriver	INFO	Listening on 127.0.0.1:49210
+1597585626402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileKA60RL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597585631255	Marionette	INFO	Listening on port 49218
+1597585631630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/domnode146, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:256:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:94:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:778:14
+
+1597585774507	Marionette	INFO	Stopped listening on port 49218
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597585777485	geckodriver	INFO	Listening on 127.0.0.1:49454
+1597585780521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileydPsg4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597585784533	Marionette	INFO	Listening on port 49462
+1597585784643	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+1597585859720	Marionette	INFO	Stopped listening on port 49462
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597585861829	geckodriver	INFO	Listening on 127.0.0.1:49575
+1597585864904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileBc8aYr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597585868219	Marionette	INFO	Listening on port 49584
+1597585868533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+[Parent 31264, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 31264, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1597588935489	Marionette	INFO	Stopped listening on port 49584
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597588945983	geckodriver	INFO	Listening on 127.0.0.1:49975
+1597588949048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileTMNgUv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597588957182	Marionette	INFO	Listening on port 49983
+1597588957602	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 19216, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+[Child 19216, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1597589291785	Marionette	INFO	Stopped listening on port 49983
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597589294474	geckodriver	INFO	Listening on 127.0.0.1:50243
+1597589297546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileNwH65F"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597589302280	Marionette	INFO	Listening on port 50251
+1597589302782	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12776, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 12776, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 12776, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1597590071753	Marionette	INFO	Stopped listening on port 50251
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597590086740	geckodriver	INFO	Listening on 127.0.0.1:50490
+1597590089799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileVRI6sx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597590101364	Marionette	INFO	Listening on port 50499
+1597590101508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+1597590229999	Marionette	INFO	Stopped listening on port 50499
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597590233483	geckodriver	INFO	Listening on 127.0.0.1:50661
+1597590236410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileIalU6T"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597590240929	Marionette	INFO	Listening on port 50669
+1597590241137	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+1597590640595	Marionette	INFO	Stopped listening on port 50669
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597590649374	geckodriver	INFO	Listening on 127.0.0.1:50806
+1597590652398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilefM4gEo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597590664875	Marionette	INFO	Listening on port 50816
+1597590664954	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 39032, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1597590788773	Marionette	INFO	Stopped listening on port 50816
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597591309087	geckodriver	INFO	Listening on 127.0.0.1:50971
+1597591312097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileip7V9w"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597591316363	Marionette	INFO	Listening on port 50979
+1597591316839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597591372087	Marionette	INFO	Stopped listening on port 50979
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597591375731	geckodriver	INFO	Listening on 127.0.0.1:51090
+1597591378748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileZdNDWp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597591382881	Marionette	INFO	Listening on port 51098
+1597591382968	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1597591702029	Marionette	INFO	Stopped listening on port 51098
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597591707574	geckodriver	INFO	Listening on 127.0.0.1:51188
+1597591710393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileHhqI2P"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597591716382	Marionette	INFO	Listening on port 51198
+1597591716633	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript e
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+rror: resource:///modules/WindowsJumpLists.jsm, line 3
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+06: TypeError: th
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+is._bu
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+ild
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+er 
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+is undefined
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x590006,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+1597602372660	Marionette	INFO	Stopped listening on port 51198
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597602377682	geckodriver	INFO	Listening on 127.0.0.1:51772
+1597602380717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofile6gRJFX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597602386525	Marionette	INFO	Listening on port 51780
+1597602386612	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597602457741	Marionette	INFO	Stopped listening on port 51780
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597602461607	geckodriver	INFO	Listening on 127.0.0.1:51877
+1597602464639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilefzN82B"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597602467845	Marionette	INFO	Listening on port 51885
+1597602468279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597602601898	Marionette	INFO	Stopped listening on port 51885
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597602652206	geckodriver	INFO	Listening on 127.0.0.1:51982
+1597602655252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileF3LClo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597602659297	Marionette	INFO	Listening on port 51991
+1597602659381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597602715812	Marionette	INFO	Stopped listening on port 51991
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\Temp\\rust_mozprofileB2Bls0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597602718433	Marionette	INFO	Listening on port 52077
+1597602718770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597602898489	Marionette	INFO	Stopped listening on port 52077
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597602901646	geckodriver	INFO	Listening on 127.0.0.1:52190
+1597602904697	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileZJjvA0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597602908529	Marionette	INFO	Listening on port 52198
+1597602908836	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200810/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/3b6c08da7220e9dae3c5eb54c7649dd4.js?tag=video_mra/web_fig_och, line 179: SecurityError: The operation is insecure.
+[Parent 42360, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1597607598553	Marionette	INFO	Stopped listening on port 52198
+1597618151379	geckodriver	INFO	Listening on 127.0.0.1:56338
+1597618154213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofile19LYMp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597618171854	Marionette	INFO	Listening on port 56350
+1597618173174	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597618342271	Marionette	INFO	Stopped listening on port 56350
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597621790630	geckodriver	INFO	Listening on 127.0.0.1:57353
+1597621793701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileGMumIn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1597621845257	Marionette	INFO	Listening on port 57362
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: blocklists/addons sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/messaging-experiments sync interrupted by shutdown
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
+1597621845773	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: blocklists/plugins sync interrupted by shutdown
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+console.warn: services.settings: main/public-suffix-list sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: pinning/pins sync interrupted by shutdown
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+1597621853252	Marionette	INFO	Stopped listening on port 57362
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1597621855884	geckodriver	INFO	Listening on 127.0.0.1:57462
+1597621858809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofileXQBnvB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597621867812	Marionette	INFO	Listening on port 57471
+1597621868242	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 32764, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 32764, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 32764, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1597623131797	Marionette	INFO	Stopped listening on port 57471
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597667427382	geckodriver	INFO	Listening on 127.0.0.1:61950
+1597667430542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Miller\\AppData\\Local\\Temp\\rust_mozprofilem5LYyf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597667473762	Marionette	INFO	Listening on port 61958
+1597667473922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/3677744347588979643/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405059060059013511333203020.html#t=11828453435854116218&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8060552661816372683/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405069070069013511333203020.html#t=14686411774154320020&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/3677744347588979643/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405059060059013511333203020.html#t=13130164578851963344&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/3677744347588979643/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405059060059013511333203020.html#t=7227636347036061452&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/14392503983527502529/Arroba%20Banner%20-%20FRONTIER%2023%20ATTACK%20BI-TURBO%20DIESEL%204X4%20AT%20MY20-20%20-%20-dcoll010405111112111012311454503025.html#t=12941793866997246771&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8060552661816372683/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405069070069013511333203020.html#t=2911016600822078368&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/16930610954969417818/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405071072071013511333203020.html#t=3465445059683298707&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/16930610954969417818/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405071072071013511333203020.html#t=354269093006715384&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/2391457996061906071/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405063064063013511333203020.html#t=12586175755998074629&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/2391457996061906071/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405063064063013511333203020.html#t=7355595594858910044&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/11921776643549773114/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405073074073013511333203020.html#t=4165751491026067320&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/12090643107069650471/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405067068067013511333203020.html#t=10772886601213468718&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/3677744347588979643/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405059060059013511333203020.html#t=7620351254300138926&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/3677744347588979643/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405059060059013511333203020.html#t=6399315821264054514&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/11921776643549773114/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405073074073013511333203020.html#t=13715386467769808714&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/11921776643549773114/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405073074073013511333203020.html#t=15831311703760794888&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8060552661816372683/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405069070069013511333203020.html#t=12653718601046988688&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8060552661816372683/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405069070069013511333203020.html#t=4328695741656592800&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/16930610954969417818/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405071072071013511333203020.html#t=4157111970676872937&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8060552661816372683/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405069070069013511333203020.html#t=14484752804856554018&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/2391457996061906071/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405063064063013511333203020.html#t=22656564292352062&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/2391457996061906071/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405063064063013511333203020.html#t=14602147440341145452&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/13180543315378258452/Arroba%20Banner%20-%20FRONTIER%2023%20ATTACK%20BI-TURBO%20DIESEL%204X4%20AT%20MY20-20%20-%20-dcoll010405109110109012311454503025.html#t=18128853656760347126&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/2391457996061906071/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405063064063013511333203020.html#t=13268080608006982379&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/14392503983527502529/Arroba%20Banner%20-%20FRONTIER%2023%20ATTACK%20BI-TURBO%20DIESEL%204X4%20AT%20MY20-20%20-%20-dcoll010405111112111012311454503025.html#t=3305194987399586194&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/3677744347588979643/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405059060059013511333203020.html#t=11728377351019240339&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6483387470325127397/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405075076075013511333203020.html#t=7014519137418826518&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/8060552661816372683/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405069070069013511333203020.html#t=5946057236871731712&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/f492aca4c0eee16d55baa281e29b854b.js?tag=video_mra/web_raspberry, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/4399224298490978501/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405061062061013511333203020.html#t=3030553759854860955&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/3677744347588979643/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405059060059013511333203020.html#t=2723742754661678586&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/3677744347588979643/Arroba%20Banner%20-%20KICKS%2016%20SL%20CVT%20MY20-20%20-%20-dcoll010405059060059013511333203020.html#t=8412380063135228764&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: max_duration is undefined
+1597668280256	Marionette	INFO	Stopped listening on port 61958
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
